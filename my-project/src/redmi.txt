@@ -1,0 +1,9 @@
+1 Requirements
+ Data/Design/(UI/UX)
+2 Globel State
+3 Routing
+4 Layout
+5 Boundaries
+
+
+MVC (Model View Controllers)
