@@ -1,6 +1,6 @@
 import {lazy} from 'react'
 import ProtectedRoute from '../ProtectedRoute'
-import AdminLayout from '../../layout/admin'
+import AdminLayout from '../../layouts/admin/Index'
 
 const AdminLanding = lazy(()=>import('../../views/admin/index'))
 
